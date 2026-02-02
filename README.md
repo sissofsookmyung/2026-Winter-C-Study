@@ -3,7 +3,7 @@
 ## 1️⃣ 자신의 branch 만들기
 컴퓨터에서 자신이 원하는 위치에 "2026-Winter-C-Study" 레파지토리 중 자신의 대문자 영어초성이 적힌 branch를 만들고 클론합니다.
 
-📃 'git clone -b {브랜치 이름) --single-branch {저장소 url}'
+📃 'git clone {저장소 url}'
 
 ⚠️ 반드시 자신의 branch에서만 작업하길 바랍니다! 다른 부원의 branch를 편집하지 마세요.
 
