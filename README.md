@@ -32,7 +32,7 @@
 ## 3️⃣ Github 레파지토리에 적용하기
 해당 주차의 과제를 끝냈다면, 작성한 코드를 remote repository(github repository)에 push 합니다.
 
-📃 'git push origin 본인의 브랜치명(깃허브 닉네임)'
+📃 'git push origin {본인의 브랜치명}'
 
 파일 제목은 '백준 문제번호'입니다. ex) 1031.c / 1031.png
 
