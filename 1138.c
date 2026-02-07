@@ -12,7 +12,7 @@ int main() {
         scanf("%d", &cnt[i]);
     }
 
-    for (int h = N; h >= 1; h--) {//키 큰 사람부터
+    for (int h = N; h >= 1; h--) {//키 큰 사람부터 반복
 
         // 오른쪽으로 한 칸씩 밀기
         for (int i = size; i > cnt[h]; i--) {
