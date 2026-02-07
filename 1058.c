@@ -12,7 +12,6 @@ int main() {
 
     int max = 0; // 최대 2-친구 수
 
-    // 사람 i 기준
     for (int i = 0; i < N; i++) {
         int cnt = 0; // i의 2-친구 수
 
@@ -35,7 +34,7 @@ int main() {
             }
         }
 
-        // 최댓값 갱신
+        // 최댓값 구하기
         if (cnt > max) {
             max = cnt;
         }
