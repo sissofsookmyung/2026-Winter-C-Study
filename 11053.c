@@ -36,6 +36,8 @@ int main() {
 			result = dp[i];
 	}
 
+	<img width="1055" height="86" alt="Image" src="https://github.com/user-attachments/assets/053a6dba-ef53-4da7-a2f1-427c0ccc85d5" />
+
 	printf("%d", result);
 
 }
